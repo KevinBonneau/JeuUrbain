@@ -1,1 +1,2 @@
-MDP : BANANE
+utilisateur SQL : u238124157_banan
+MDP SQL : banane
