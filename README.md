@@ -5,6 +5,17 @@ http://snugonline.bigcartel.com/
 http://addictedtocolors.tumblr.com/
 http://www.quentinjones.info/work/flair/
 
+Premiers pas:
+Avatar/ Fil d'actualité/ Classique/ Accessible/ Trouver articles en fonction du bloggeur/ Filtre pour trouver les artciles qui nous intéresse/ Image en "surFat" qualité/ Vidéo/ Lien externe qui renvoit à une description plus précise/ 
+Charte graphique: Ville de nuit, sombre, texte clair/ blanc, avec des touches de couleurs et couleurs vives
+A qui on s'adresse? 
+Mei Menassel, Emeline Brule, Eulalie Pierquin. Public jeune, féminin, à la page des nouvelles techologies.
+
+Quel ton on utilise?
+Description + critique nuancée
+Quels messages on veut faire passer?
+Comment?
+Regarder les extensions pour trouver des visuels et des interractions?
 
 wordpress
 
