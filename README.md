@@ -7,6 +7,7 @@ http://www.quentinjones.info/work/flair/
 http://www.antivj.com
 http://www.vincentmunier.com/
 http://www.markmawson.com/#/
+http://oregonmanifest.com/
 
 Premiers pas:
 Avatar/ Fil d'actualité/ Classique/ Accessible/ Trouver articles en fonction du bloggeur/ Filtre pour trouver les artciles qui nous intéresse/ Image en "surFat" qualité/ Vidéo/ Lien externe qui renvoit à une description plus précise/ 
