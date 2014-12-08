@@ -38,7 +38,6 @@ Kevin :
 
 Sarah :
 - Logo
-- 
 
 Lila : 
 - recherche de sujet pour les articles
