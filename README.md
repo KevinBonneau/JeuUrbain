@@ -4,6 +4,7 @@ Sites références:
 http://snugonline.bigcartel.com/
 http://addictedtocolors.tumblr.com/
 http://www.quentinjones.info/work/flair/
+http://postersinamsterdam.com/
 
 Premiers pas:
 Avatar/ Fil d'actualité/ Classique/ Accessible/ Trouver articles en fonction du bloggeur/ Filtre pour trouver les artciles qui nous intéresse/ Image en "surFat" qualité/ Vidéo/ Lien externe qui renvoit à une description plus précise/ 
