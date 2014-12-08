@@ -21,7 +21,27 @@ Quels messages on veut faire passer?
 Comment?
 Regarder les extensions pour trouver des visuels et des interractions?
 
-wordpress
+[Taches]
+Nom du blog : PLAY AGAIN
+
+Clara :
+- Logo
+- Divers tests de pluggin sur wordpress
+
+Stéphanie :
+- wireframe / maquette
+
+Kevin :
+- Hébergement du site
+- Installer wordpress
+- recherche de visuel
+
+Sarah :
+- Logo
+- 
+
+Lila : 
+- recherche de sujet pour les articles
 
 
 ////////////Pour l'évaluation/////////////////
