@@ -2,6 +2,9 @@ JeuUrbain
 =========
 Sites références:
 http://snugonline.bigcartel.com/
+http://addictedtocolors.tumblr.com/
+http://www.quentinjones.info/work/flair/
+
 
 wordpress
 
