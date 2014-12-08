@@ -41,6 +41,28 @@ Sarah :
 
 Lila : 
 - recherche de sujet pour les articles
+    Stéphanie:
+      -La chasse aux space invaders (jeu urbain sur smartphone)
+      -le film Tron
+      -Patienter au passage piéton en jouant à Pong
+    Lila:
+      -Can You See me now
+      -Meet Your Heartbeat Twin
+      -The Fun Theory
+    Clara:
+      -Foursquare
+      -Ville et jeu video: un mariage de raison
+      -La disparition du frère bidule
+    Sarah:
+      -Moji
+      -Ingress
+      -Pub Nike
+    Kévin:
+      -La Rennes numérique
+      -La citygame et les jeux de la Mosca
+      -Ampel Pong (Copy of eristoff internative festival)
+
+Autres articles:
 
 
 ////////////Pour l'évaluation/////////////////
