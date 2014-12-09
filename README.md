@@ -27,13 +27,13 @@ Nom du blog : PLAY AGAIN
 Nous participons tous à l'élaboration du blog : 
 Nous nous concertons régulièrement pour établir quel type de navigation nous souhaitons mettre en place sur le blog.
 
-Clara : Coordinateur wordpress / tests de plugins sur wordpress / premier prototype de page type pour les articles
+Clara : Coordinateur wordpress / logo / tests de plugins sur wordpress / premier prototype de page type pour les articles / convertir le code / structure du site 
 
-Stéphanie : Référence site / wireframe / maquette du site / création des pages articles
+Stéphanie : Référence site / wireframe / maquette du site / création des pages articles / création des avatars
 
-Kevin : Coordinateur Organisation / Hébergement du site /  Installer wordpress / FileZilla / MAJ du README
+Kevin : Coordinateur Organisation / Hébergement du site /  Installer wordpress / FileZilla / MAJ du README / chercher des extension
 
-Sarah : Recherche Logo / recherche de visuel /  Réference site / création des pages articles
+Sarah : Logo / recherche de visuel /  Réference site / création des pages articles / structure du site / tests de plugins sur wordpress
 
 Lila :  Recherche de sujet d'article / recherche de visuel / répartion des articles a rédiger /
 
