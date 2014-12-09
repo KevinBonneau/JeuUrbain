@@ -24,23 +24,20 @@ Regarder les extensions pour trouver des visuels et des interractions?
 [Taches]
 Nom du blog : PLAY AGAIN
 
-Clara :
-- Logo
-- Divers tests de pluggin sur wordpress
+Nous participons tous à l'elaboration du blog : 
+Nous nous concertons régulièrement pour établir quelle type de navigation nous souhaitons mettre en place sur le blog.
 
-Stéphanie :
-- wireframe / maquette
+Clara : Coordinateur wordpress / tests de pluggin sur wordpress / premier prototype de page type pour les articles
 
-Kevin :
-- Hébergement du site
-- Installer wordpress
-- recherche de visuel
+Stéphanie : Réference site / wireframe / maquette du site / 
 
-Sarah :
-- Logo
+Kevin : Coordinateur Organisation / Hébergement du site /  Installer wordpress / FileZilla / MAJ du README
 
-Lila : 
-- recherche de sujet pour les articles
+Sarah : Recherche Logo / recherche de visuel /  Réference site
+
+Lila :  Recherche de sujet d'article / recherche de visuel / répartion des articles a rédiger /
+
+
     Stéphanie:
       -La chasse aux space invaders est ouverte (jeu urbain sur smartphone)
       -le film Tron
