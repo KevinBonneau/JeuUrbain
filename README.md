@@ -41,27 +41,23 @@ Taches : Recherche de sujet d'article / recherche de visuel pour les articles / 
     Stéphanie:<br> 
       -La chasse aux spaces invaders est ouverte (jeu urbain sur smartphone)<br> 
       -le film Tron<br> 
-      -Patienter au passage piéton en jouant à Pong<br> 
-      
+      -Patienter au passage piéton en jouant à Pong<br> <br> 
     Lila:<br> 
       -Can You See me now<br> 
       -Meet Your Heartbeat Twin<br> 
-      -The Fun Theory (Volkswagen)<br> 
-      
+      -The Fun Theory (Volkswagen)<br> <br> 
     Clara:<br> 
       -Foursquare<br> 
       -Ville et jeu video: un mariage de raison<br> 
-      -La disparition du frère bidule<br> 
-      
+      -La disparition du frère bidule<br> <br> 
     Sarah:<br> 
       -Moji<br> 
       -Ingress<br> 
-      -Pub Nike<br> 
-      
+      -Pub Nike<br> <br> 
     Kévin:<br> 
       -La Rennes numérique<br> 
       -La citygame et les jeux de la Mosca<br> 
-      -Ampel Pong (Copy of eristoff internative festival)<br> 
+      -Ampel Pong (Copy of eristoff internative festival)<br> <br> 
 
 
 
