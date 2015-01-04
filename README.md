@@ -10,30 +10,60 @@ http://www.markmawson.com/#/<br>
 http://oregonmanifest.com/<br> 
 
 <b>Premiers pas:</b><br> 
-Avatar/ Fil d'actualité/ Classique/ Accessible/ Trouver articles en fonction du bloggeur/ Filtre pour trouver les artciles qui nous intéresse/ Image en "surFat" qualité/ Vidéo/ Lien externe qui renvoit à une description plus précise/ 
-Charte graphique: Ville de nuit, sombre, texte clair/ blanc, avec des touches de couleurs et couleurs vives
+Avatar/ Fil d'actualité/ Classique/ Accessible/ Trouver des articles en fonction du bloggeur/ Filtre pour trouver les artciles qui nous intéressent/ Image en "surFat" qualité/ Vidéo/ Lien externe qui renvoie à une description plus précise/ 
+Charte graphique: Ville de nuit, sombre, texte clair/ blanc, avec des touches de couleurs bleues dans l'univers de Tron
 
 <b>[Taches & Roles]</b><br> 
 Nom du blog : PLAY AGAIN
 
 Nous participons tous à l'élaboration du blog : 
 Nous nous concertons régulièrement pour établir quel type de navigation nous souhaitons mettre en place sur le blog.
-Une fois les articles rédigés et valider par le groupe, chacun intègre ses articles dans une page Article qui sera reférencée a son nom.
+Une fois les articles rédigés et validés par le groupe, chacun intègre ses articles dans une page Article qui sera reférencée à son nom.
 
 <b>Clara : Coordinateur wordpress </b> <br> 
-Taches : Création d'un logo / tests de plugins sur wordpress / premier prototype de page type pour les articles / convertir le code /Modification du CSS / structure du site / relecture et correction des articles
+Taches :Test de thèmes wordpress 
+        Tests de plugins sur wordpress 
+        Trouver des références de sites 
+        Premier prototype de page type pour les articles 
+        Convertir le code 
+        Modification du CSS 
+        Élaboration de la structure du site 
+        Relecture et correction des articles
+        Recherche de sujets d'articles 
 
 <b>Stéphanie : </b><br> 
-Taches : Trouver des référence de site / maquette du site / création des pages articles / création des avatars / Modification du CSS / relecture et correction des articles
+Taches :Trouver des références de sites 
+        Maquette du site 
+        Création des pages articles 
+        Création des avatars
+        Modification du CSS 
+        Relecture et correction des articles
+        Recherche de sujets d'articles 
 
 <b>Kevin : Coordinateur Organisation</b><br> 
-Taches : Hébergement du site /  Installer wordpress / FileZilla / MAJ du README / chercher des extensions / Modification du CSS
+Taches :Hébergement du site 
+        Installer wordpress 
+        FileZilla 
+        MAJ du README 
+        Chercher des extensions 
+        Trouver des références de sites 
+        Modification du CSS
+        Recherche de sujets d'articles 
 
 <b>Sarah : </b><br> 
-Taches : création d'un Logo / recherche de visuel pour le site /  Trouver des référence de site / Modification du CSS / création des pages articles / structure du site / tests de plugins sur wordpress
+Taches :Recherche de visuels pour le site 
+        Trouver des références de sites 
+        Modification du CSS 
+        Création des pages articles 
+        Élaboration de la structure du site 
+        Tests de plugins sur wordpress
+        Recherche de sujets d'articles 
 
 <b>Lila : </b> <br> 
-Taches : Recherche de sujet d'article / recherche de visuel pour les articles / répartition des articles à rédiger / tests de plugins sur wordpress 
+Taches :Recherche de sujets d'articles  
+        Recherche de visuels pour les articles 
+        Répartition des articles à rédiger 
+        Tests de plugins sur wordpress 
 
 
 
@@ -48,12 +78,12 @@ Taches : Recherche de sujet d'article / recherche de visuel pour les articles / 
       -The Fun Theory (Volkswagen)<br> <br> 
     Clara:<br> 
       -Foursquare<br> 
-      -Ville et jeu video: un mariage de raison<br> 
+      -La ville vidéoludique<br> 
       -La disparition du frère bidule<br> <br> 
     Sarah:<br> 
-      -Moji<br> 
+      -Brick - Kinect wall game<br> 
       -Ingress<br> 
-      -Pub Nike<br> <br> 
+      -Catch the Flash<br> <br> 
     Kévin:<br> 
       -La Rennes numérique<br> 
       -La citygame et les jeux de la Mosca<br> 
