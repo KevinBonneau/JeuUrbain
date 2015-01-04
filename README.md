@@ -1,43 +1,43 @@
-JeuUrbain
+<strong>JeuUrbain</strong>
 =========
-Sites références:
-http://snugonline.bigcartel.com/
-http://addictedtocolors.tumblr.com/
-http://www.quentinjones.info/work/flair/
-http://www.antivj.com
-http://www.vincentmunier.com/
-http://www.markmawson.com/#/
-http://oregonmanifest.com/
+<b>Sites références:</b><br> 
+http://snugonline.bigcartel.com/<br> 
+http://addictedtocolors.tumblr.com/<br> 
+http://www.quentinjones.info/work/flair/<br> 
+http://www.antivj.com<br> 
+http://www.vincentmunier.com/<br> 
+http://www.markmawson.com/#/<br> 
+http://oregonmanifest.com/<br> 
 
-Premiers pas:
+<b>Premiers pas:</b><br> 
 Avatar/ Fil d'actualité/ Classique/ Accessible/ Trouver articles en fonction du bloggeur/ Filtre pour trouver les artciles qui nous intéresse/ Image en "surFat" qualité/ Vidéo/ Lien externe qui renvoit à une description plus précise/ 
 Charte graphique: Ville de nuit, sombre, texte clair/ blanc, avec des touches de couleurs et couleurs vives
-A qui on s'adresse? 
-Mei Menassel, Emeline Brule, Eulalie Pierquin. Public jeune, féminin, à la page des nouvelles techologies.
 
-Quel ton on utilise?
-Description + critique nuancée
-Quels messages on veut faire passer?
-Comment?
-Regarder les extensions pour trouver des visuels et des interractions?
-
-[Taches]
+<b>[Taches & Roles]</b><br> 
 Nom du blog : PLAY AGAIN
 
 Nous participons tous à l'élaboration du blog : 
 Nous nous concertons régulièrement pour établir quel type de navigation nous souhaitons mettre en place sur le blog.
+Une fois les articles rédigés et valider par le groupe, chacun intègre ses articles dans une page Article qui sera reférencée a son nom.
 
-Clara : Coordinateur wordpress / logo / tests de plugins sur wordpress / premier prototype de page type pour les articles / convertir le code / structure du site 
+<b>Clara : Coordinateur wordpress </b> <br> 
+Taches : Création d'un logo / tests de plugins sur wordpress / premier prototype de page type pour les articles / convertir le code /Modification du CSS / structure du site / relecture et correction des articles
 
-Stéphanie : Référence site / wireframe / maquette du site / création des pages articles / création des avatars
+<b>Stéphanie : </b><br> 
+Taches : Trouver des référence de site / maquette du site / création des pages articles / création des avatars / Modification du CSS / relecture et correction des articles
 
-Kevin : Coordinateur Organisation / Hébergement du site /  Installer wordpress / FileZilla / MAJ du README / chercher des extension
+<b>Kevin : Coordinateur Organisation</b><br> 
+Taches : Hébergement du site /  Installer wordpress / FileZilla / MAJ du README / chercher des extensions / Modification du CSS
 
-Sarah : Logo / recherche de visuel /  Réference site / création des pages articles / structure du site / tests de plugins sur wordpress
+<b>Sarah : </b><br> 
+Taches : création d'un Logo / recherche de visuel pour le site /  Trouver des référence de site / Modification du CSS / création des pages articles / structure du site / tests de plugins sur wordpress
 
-Lila :  Recherche de sujet d'article / recherche de visuel / répartion des articles a rédiger /
+<b>Lila : </b> <br> 
+Taches : Recherche de sujet d'article / recherche de visuel pour les articles / répartition des articles à rédiger / tests de plugins sur wordpress 
 
 
+
+<b>Articles</b><br> 
     Stéphanie:
       -La chasse aux spaces invaders est ouverte (jeu urbain sur smartphone)
       -le film Tron
@@ -59,18 +59,7 @@ Lila :  Recherche de sujet d'article / recherche de visuel / répartion des arti
       -La citygame et les jeux de la Mosca
       -Ampel Pong (Copy of eristoff internative festival)
 
-Autres articles:
 
-
-////////////Pour l'évaluation/////////////////
-
-L'évaluation portera principalement sur le wordpress de groupe (critères : installation/modification de thème, utilisation de plugins adaptés etc.)
-Sur votre propre compte github : vous pouvez créer un repository nommé "évaluation"
-Mettez dedans : 
-    - un fichier avec vos médailles en html
-    - tout travail web fait de votre coté : exemple, wordpress personnel, page projet avec bootstrap ou knackss...
-    
-N'oubliez pas de documenter votre projet wordpress dans le fichier readme.md ! :) (dire qui a fait quoi, comment vous vous etes organisés etc.)
 
 
 
