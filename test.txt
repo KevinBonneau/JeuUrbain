@@ -1,14 +1,18 @@
+Warning!!!
+A supprimer d'ici d'urgence!!
+c'est un conseil!! oO!
+
 <<<<<<< HEAD
 MDP : BANANE
 =======
 SITE WEB
-Nom d'hôte FTP Temporaire: 31.170.165.154
-Nom d'hôte FTP complet: ftp.jeux-urbains.esy.es
+Nom d'hÃ´te FTP Temporaire: 31.170.165.154
+Nom d'hÃ´te FTP complet: ftp.jeux-urbains.esy.es
 Nom d'utilisateur FTP: u355298901
 Mot de passe FTP: banane
 
 SQL
-nom base de donné SQL : u355298901_jeurb
+nom base de donnÃ© SQL : u355298901_jeurb
 utilisateur SQL : u355298901_banan
 MDP SQL : banane
 
